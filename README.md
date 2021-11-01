@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-11-01 at 20 50 20](https://user-images.githubusercontent.com/77092646/139696388-37bb5d58-ddb5-4ddd-a2bc-377fcdccfea5.png)
+<img width="320" alt="Screenshot 2021-11-01 at 8 56 05 PM" src="https://user-images.githubusercontent.com/77092646/139696815-78c03173-34d3-4baf-8de2-780842e2471d.png">## Getting Started
 
-
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-11-01 at 20 50 16](https://user-images.githubusercontent.com/77092646/139696426-eec23568-71ba-4b34-8246-30efb2470e25.png)
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+<img width="413" alt="Screenshot 2021-11-01 at 8 55 53 PM" src="https://user-images.githubusercontent.com/77092646/139696853-3e79cb28-c63f-4708-b7d8-471a29e3db84.png">This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
